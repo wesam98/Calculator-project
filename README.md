@@ -1,5 +1,5 @@
 # Calculator-project
-it's a small AVR application written in c , This project provides basic calculator functionality (+,-,/,*).
+it's a small AVR (atmeg32) application written in c , This project provides basic calculator functionality (+,-,/,*).
 # Features
 Standard Calculator functionality which offers basic operations.
 offers mathematical expressions evaluation using order of operations.
